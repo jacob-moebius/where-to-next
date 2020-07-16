@@ -1,5 +1,5 @@
 # where-to-next
-A simple Android app that uses a local database to maintain a list of universities and some of their statistics. The user can add universities to the list and view their detailed pages. 
+A simple Android app that uses a local database to maintain a list of universities and some of their statistics. The user can add universities to the list and view their detailed pages, and tap a list item on the main activity to see more detailed information on the chosen university. 
 
 ## Setup
 To see this project in action:
