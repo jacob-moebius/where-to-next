@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Where To Next</string>
+    <string name="add">Add College</string>
+    <string name="name">Enter name of the college</string>
+    <string name="population_hint">Enter total student population</string>
+    <string name="tuition_hint">Enter annual in-state tuition</string>
+    <string name="image_view_content">College logo from current college</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="annual_enrollment">Annual Enrollment: %1$s</string>
+    <string name="in_state_tuition">In-state Tuition: %1$s</string>
+</resources>
